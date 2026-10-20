@@ -1,4 +1,4 @@
-# Olá, sou Arlindo Barroso 👋
+# Olá, sou Arlindo Barroso!!!
 
 Sou estudante da Trilha de Computação em Nuvem e estou desenvolvendo meus conhecimentos em tecnologias cloud e ferramentas de desenvolvimento.
 
