@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, sou Arlindo Barroso 👋
 
-<!--
-**Liucera/Liucera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante da Trilha de Computação em Nuvem e estou desenvolvendo meus conhecimentos em tecnologias cloud e ferramentas de desenvolvimento.
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS
+- Docker e containers
+- PostgreSQL
+- Git e GitHub
+- Terraform
+
+## Interesses e objetivo
+
+Tenho interesse em computação em nuvem, infraestrutura e DevOps.  
+Meu objetivo é aprofundar meus conhecimentos e atuar profissionalmente com soluções Cloud e DevOps.
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/arlindobarroso](https://www.linkedin.com/in/arlindobarroso)
+- E-mail: [liucera100@gmail.com](mailto:liucera100@gmail.com)
