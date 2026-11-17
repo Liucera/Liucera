@@ -19,4 +19,4 @@ Meu objetivo é aprofundar meus conhecimentos e atuar profissionalmente com solu
 ## Contato
 
 - LinkedIn: [linkedin.com/in/arlindobarroso](https://www.linkedin.com/in/arlindobarroso)
-- E-mail: [arlindo.barroso.dev.com](mailto:arlindo.barroso.dev.com)
+- E-mail: [arlindo.barroso.dev@gmail.com](mailto:arlindo.barroso.dev@gmail.com)
