@@ -9,6 +9,7 @@ Sou estudante da Trilha de Computação em Nuvem e estou desenvolvendo meus conh
 - PostgreSQL
 - Git e GitHub
 - Terraform
+- Desenvolvedor FullStack
 
 ## Interesses e objetivo
 
@@ -18,4 +19,4 @@ Meu objetivo é aprofundar meus conhecimentos e atuar profissionalmente com solu
 ## Contato
 
 - LinkedIn: [linkedin.com/in/arlindobarroso](https://www.linkedin.com/in/arlindobarroso)
-- E-mail: [liucera100@gmail.com](mailto:liucera100@gmail.com)
+- E-mail: [arlindo.barroso.dev.com](mailto:arlindo.barroso.dev.com)
